@@ -1,4 +1,4 @@
-### Project Idea: Decentralized Savings Protocol with Automated Interest Rate Optimization
+### Project Idea: Decentralized Automated Yeild Faming Protocol
 
 #### Concept:
 
